@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pdfSpy/static/css/main.37c19d2c.css",
-    "main.js": "/pdfSpy/static/js/main.3bb6cc0f.js",
+    "main.js": "/pdfSpy/static/js/main.20e5306e.js",
     "static/js/599.52669444.chunk.js": "/pdfSpy/static/js/599.52669444.chunk.js",
     "static/js/entry.857a8c53.worker.js": "/pdfSpy/static/js/entry.857a8c53.worker.js",
     "static/media/firstPage.svg": "/pdfSpy/static/media/firstPage.ee1e4912b12254d7ade5.svg",
@@ -14,6 +14,6 @@
   },
   "entrypoints": [
     "static/css/main.37c19d2c.css",
-    "static/js/main.3bb6cc0f.js"
+    "static/js/main.20e5306e.js"
   ]
 }
