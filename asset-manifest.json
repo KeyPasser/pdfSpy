@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "/pdfSpy/static/css/main.01c9eec5.css",
-    "main.js": "/pdfSpy/static/js/main.134efcc5.js",
+    "main.js": "/pdfSpy/static/js/main.2554621f.js",
     "static/js/599.52669444.chunk.js": "/pdfSpy/static/js/599.52669444.chunk.js",
-    "static/js/entry.2533712b.worker.js": "/pdfSpy/static/js/entry.2533712b.worker.js",
     "static/media/firstPage.svg": "/pdfSpy/static/media/firstPage.ee1e4912b12254d7ade5.svg",
     "static/media/compare.svg": "/pdfSpy/static/media/compare.3795e6c7f4a081980dd6.svg",
     "static/media/expand.svg": "/pdfSpy/static/media/expand.4462783df0dc0dff6879.svg",
@@ -15,6 +14,6 @@
   },
   "entrypoints": [
     "static/css/main.01c9eec5.css",
-    "static/js/main.134efcc5.js"
+    "static/js/main.2554621f.js"
   ]
 }
